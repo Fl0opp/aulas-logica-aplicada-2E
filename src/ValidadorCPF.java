@@ -19,7 +19,6 @@ public class ValidadorCPF {
         }
 
 
-
         // Calcula o primeiro dígito verificador
 
         int soma = 0;
